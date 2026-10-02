@@ -1,4 +1,4 @@
 print ("=" * 30)
-print ("Andini Rahmasari")
+print ("Andini Rahmasari S.Stat")
 print ("=" * 30)   
 # Untraked
