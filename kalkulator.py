@@ -1,0 +1,10 @@
+#print("=====================CALCULATOR=====================")
+#angka_pertama = int(input("masukkan angka pertama:"))
+#angka_kedua = int(input("masukkan angka kedua:"))
+#print(f"hasil penjumlahan:{angka_pertama + angka_kedua}")
+#print(f"hasil pengurangan: {angka_pertama - angka_kedua}")
+#print(f"hasil perkalian: {angka_pertama * angka_kedua}")
+#print(f"hasil pembagian:{angka_pertama // angka_kedua}")
+
+c = int(input("masukkan suhu dalam celcius: "))
+print(c, "derajat celcius sama dengan ",  ((c*(9/5))+32), "derajat fahrenheit")
